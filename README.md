@@ -4,20 +4,23 @@
 
 ## Overview
 
-The React Weather App is a web application that provides real-time weather information and forecasts for cities around the world. It allows users to search for cities, view current weather conditions, and access a 7-day weather forecast.
+The React Weather App is a web application that provides real-time weather information and forecasts for cities around the world. It offers a user-friendly interface for users to search for cities and access weather data with ease. The app is built using React.js and integrates with OpenWeatherMap API for weather information.
 
-This project was built using React.js and integrates with the OpenWeatherMap API for weather data. The app also utilizes RapidAPI for geolocation, ensuring accurate and reliable weather information.
+**Live Demo:** [Weather React App Demo](https://raki893.github.io/weather-react-app/)
 
 ## Features
 
-- **City Search:** Users can search for cities and get real-time weather details for the selected location.
-- **7-Day Forecast:** The application displays a 7-day weather forecast, including temperature highs and lows, descriptions, and more.
-- **Detailed Information:** Users can access detailed weather information such as feels-like temperature, wind speed, humidity, pressure, and cloud cover.
-- **Background Effects:** The app incorporates SVG backgrounds that dynamically interact with the weather data, creating an engaging and visually appealing user interface.
+- **City Search:** Users can search for cities and view the current weather conditions and a 7-day weather forecast.
+- **Responsive Design:** The app is designed to be responsive, ensuring a seamless user experience on various devices.
+- **Detailed Weather Information:** Users can access detailed weather information, including temperature, humidity, wind speed, and more.
+- **Dynamic Background:** The app features dynamic background effects that change based on the weather conditions, enhancing the visual experience.
 
-## Installation
+## Built With
 
-1. Clone the repository to your local machine.
+- **React:** JavaScript library for building user interfaces.
+- **OpenWeatherMap API:** Weather data API.
+- **RapidAPI:** Geolocation API.
 
-   ```bash
-   git clone https://github.com/your-username/weather-react-app.git
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
