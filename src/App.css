@@ -1,6 +1,10 @@
 .app-container{
   max-width: 1080px;
   margin: 20px auto;
+  
+}
+h1{
+  text-align: center;
 }
 
 .background-svg {
